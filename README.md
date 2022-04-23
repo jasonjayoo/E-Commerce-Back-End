@@ -1,6 +1,6 @@
 # E-Commerce-Back-End
 
-(Homework - 13: Object-Oriented Programming: Team Profile Generator)
+(Object-Oriented Programming: Team Profile Generator)
 
 
 <br>
@@ -11,7 +11,7 @@
 
 ## Description:
 
-Build a back end for an e-commerce site by modifying starter code. Configured a working Express.js API to use Sequelize to interact with a MySQL database.
+A back end for an e-commerce site. Configure a working Express.js API to use Sequelize to interact with a MySQL database.
 
 <br>
 <br>
